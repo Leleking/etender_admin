@@ -1,4 +1,4 @@
-const BASE_URL          ="https://admin.test.elinixsolutions.com/"
+const BASE_URL          ="http://etenderapi.talanku.com/"
 /**
  * 
  * BASE_URL defines the api url
