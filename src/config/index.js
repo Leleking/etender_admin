@@ -1,4 +1,4 @@
-const apiDomain = 'https://admin.test.elinixsolutions.com/'
+const apiDomain = 'http://etenderapi.talanku.com/'
 export const category =apiDomain +'/api/category/'
 export const loginUrl = apiDomain + '/oauth/token'
 export const userUrl = apiDomain + '/api/user'
