@@ -12,7 +12,7 @@
   "dependencies": {
     "chart.js": "^2.8.0",
     "express": "^4.17.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "vee-validate": "^2.1.0-beta.8",
     "vue": "^2.6.6",
     "vue-body-class": "^2.0.0-beta.2",
